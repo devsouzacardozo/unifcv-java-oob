@@ -1,0 +1,5 @@
+- Crie uma Lista Produtos
+- Adicione Elementos na Lista de Produtos
+- Remova alguns produtos da Lista
+- Percorra a Lista de Produtos
+- Ordene a Lista de Produtos 
